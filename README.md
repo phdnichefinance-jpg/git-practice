@@ -11,3 +11,7 @@ I'm learning Git basics for Claude Code Beyond Basics training.
 ## What I learned today
 - Git configuration
 - Creating a repository
+
+saddf
+
+sdasd
